@@ -4,15 +4,6 @@
 
 Welcome to the **Daily Data Structures Questions** repository! This repository is a collection of data structure problems that I solve daily as part of my learning and practice journey. Each day, I solve one question, document the solution, and add it here for future reference and improvement.
 
-## Folder Details
-- **questions/**: Contains markdown files for each day. Each file includes:
-  - The problem statement.
-  - My approach to solving the problem.
-  - The code solution (in my preferred language: Python).
-  - Explanation of the code and time/space complexity analysis.
-
-- **resources/**: Contains any helpful links, articles, or notes that aid my understanding of data structures.
-
 ## Daily Workflow
 1. Pick a data structure problem to solve.
 2. Solve the problem and write the solution in Python.
